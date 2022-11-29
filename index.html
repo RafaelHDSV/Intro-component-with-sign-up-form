@@ -94,6 +94,7 @@
 
     .try {
       display: flex;
+      flex-direction: row;
       justify-content: center;
       align-items: center;
       padding: 1.25rem 0;
@@ -103,6 +104,60 @@
       border-radius: 1rem;
       font-size: 18px;
       font-weight: 600;
+      box-shadow: 0px 5px 10px 5px rgba(0,0,0,0.5);
+    }
+
+    .form_inputs {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      max-width: 40rem;
+      width: 100%;
+      padding: 3rem;
+      gap: 1rem;
+      background-color: var(--white);
+      border-radius: .5rem;
+    }
+
+    .form_inputs input {
+      outline: 0;
+      padding: 1.25rem 0 1.25rem 2rem;
+      width: 100%;
+      font-size: 16px;
+      font-weight: 600;
+      border-radius: .5rem;
+      border: 1px solid var(--dark_blue);
+    }
+
+    .form_inputs input[type=button] {
+      border: none;
+      outline: 0;
+      background-color: var(--green);
+      color: var(--white);
+      text-transform: uppercase;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: .5s all ease;
+    }
+
+    .form_inputs input[type=button]:hover {
+      opacity: .5;
+    }
+
+    .form_inputs p {
+      color: var(--grayish_blue);
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 2rem;
+    }
+
+    .form_inputs p strong {
+      color: var(--red);
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 2rem;
     }
 
     .attribution {
@@ -136,7 +191,7 @@
         <input type="email" name="email" id="email" placeholder="Email Address">
         <input type="password" name="password" id="password" placeholder="Password">
         <input type="button" value="Claim your free trial">
-        <p>By clicking the button, you are agreeing to our Terms and Services</p>
+        <p>By clicking the button, you are agreeing to our <strong>Terms and Services</strong></p>
       </div>
     </div>
   </main>
