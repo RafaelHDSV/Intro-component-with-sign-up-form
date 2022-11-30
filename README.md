@@ -42,7 +42,7 @@ Users should be able to:
     
   - Mobile
     
-    ![](images/mobile.png)
+    <img src="images/mobile.png" alt="desktop.png" width="500px" height="1200px">
 
 ## My process
 
