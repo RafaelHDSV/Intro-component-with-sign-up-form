@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/RafaelHDSV/Intro-component-with-sign-up-form?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/RafaelHDSV/Intro-component-with-sign-up-form?style=for-the-badge)
 
-<img src="images/desktop.png" alt="desktop.png
+<img src="images/desktop.png" alt="desktop.png">
 
 > This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
