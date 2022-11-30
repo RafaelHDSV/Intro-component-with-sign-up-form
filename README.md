@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: URL SOLUTION HERE
-- Live Site URL: URL SITE HERE
+- Solution URL: https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-html-css-javascript-kDYIbopyV1
+- Live Site URL: https://intro-component-with-sign-up-form.netlify.app
 
 ### Screenshot
 
