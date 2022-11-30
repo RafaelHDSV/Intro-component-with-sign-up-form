@@ -42,7 +42,7 @@ Users should be able to:
     
   - Mobile
     
-    <img src="images/mobile.png" alt="desktop.png" width="500px" height="1200px">
+    <img src="images/mobile.png" alt="desktop.png" width="300px" height="700px">
 
 ## My process
 
