@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/RafaelHDSV/Intro-component-with-sign-up-form?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/RafaelHDSV/Intro-component-with-sign-up-form?style=for-the-badge)
 
-<img src="images/desktop.jpg" alt="desktop.jpg">
+<img src="images/desktop.png" alt="desktop.png
 
 > This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -38,11 +38,11 @@ Users should be able to:
 
   - Desktop
   
-    ![](images/desktop.jpg)
+    ![](images/desktop.png
     
   - Mobile
     
-    <img src="images/mobile.jpg" alt="mobile.jpg" width="500px" height="700px">
+    <img src="images/mobile.png" alt="mobile.png" width="500px" height="700px">
 
 ## My process
 
