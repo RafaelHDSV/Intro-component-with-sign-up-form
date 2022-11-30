@@ -1,8 +1,8 @@
 # Frontend Mentor - Intro component with sign up form solution
 
-![GitHub repo size](https://img.shields.io/github/repo-size/RafaelHDSV/NAME_OF_REPOSITORY?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/RafaelHDSV/NAME_OF_REPOSITORY?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/RafaelHDSV/NAME_OF_REPOSITORY?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/RafaelHDSV/Intro-component-with-sign-up-form?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/RafaelHDSV/Intro-component-with-sign-up-form?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/RafaelHDSV/Intro-component-with-sign-up-form?style=for-the-badge)
 
 <img src="images/desktop.jpg" alt="desktop.jpg">
 
